@@ -1,0 +1,22 @@
+{
+	"name": "@ragingwind/tsconfig",
+	"version": "0.0.1",
+	"description": "Typescript config use everyday",
+	"main": "tsconfig.json",
+	"engines": {
+		"node": ">=8"
+	},
+	"files": [
+		"tsconfig.json"
+	],
+	"keywords": [
+		"tsconfig",
+		"typescript"
+	],
+	"author": {
+		"name": "Jimmy Moon",
+		"email": "ragingwind@gmail.com",
+		"url": "jimmy.im"
+	},
+	"license": "MIT"
+}
